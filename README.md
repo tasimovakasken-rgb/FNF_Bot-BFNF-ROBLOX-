@@ -1,1 +1,18 @@
-# FNF_Bot-BFNF-ROBLOX-
+# FNF_Bot-BFNF-ROBLOX-F1 - Start (Must be run as Administrator)
+
+F2 - Pause
+
+F3 - Completely stop/exit the bot.
+
+Resolution: Full HD (1920x1080)
+
+Required Skin: Saraja skin (Скин сараги)
+
+Key Bindings: Must use DFJK
+
+File Layout & Setup
+AutoHotkey Script.ahk (Use on the left side)
+
+bot.ahk (Use on the right side)
+
+Note: Both bots function identically as they are exact copies of each other, differing only in their coordinates for ease of use.
